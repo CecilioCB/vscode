@@ -3,3 +3,5 @@ It serves as a space to practice and refresh knowledge about version control
 and related development processes.
 
 Obs* this is not be used to any other activity
+
+Cecilio will be working for while -- ok
