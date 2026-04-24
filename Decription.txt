@@ -1,3 +1,5 @@
 This repository is intended purely for testing and revisiting GitHub workflows. 
 It serves as a space to practice and refresh knowledge about version control 
 and related development processes.
+
+Obs* this is not be used to any other activity
